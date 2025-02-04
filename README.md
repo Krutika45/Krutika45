@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Krutika Mudchawade  
+Student | Web Developer | Tech Enthusiast  
 
-<!--
-**Krutika45/Krutika45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Learning HTML, CSS, and Python  
+- Studying at Satish Pradhan Dyansadhana College, Thane  
+- Currently working on InnovateX 2025 - A Tech Fest  
 
-Here are some ideas to get you started:
+## Skills  
+- Frontend: HTML, CSS  
+- Programming: Python  
+- Communication: Marathi, Hindi, English  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects  
+- Portfolio Website (In Progress)  
+- Simple Webpage with HTML & CSS  
+
+## Connect with Me   
+[GitHub](https://github.com/your-username)  
+
+![Profile Banner](https://github.com/Krutika45/Krutika45/blob/main/file-R7AGKgiLuxqd8jYEZ3iEw6.webp)
