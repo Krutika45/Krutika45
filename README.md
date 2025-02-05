@@ -21,10 +21,16 @@
 
 ### Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Krutika45">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github" alt="GitHub">
+  </a>
+  <a href="https://instagram.com/krut.ika401">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram" alt="Instagram">
+  </a>
+  <a href="mailto:krutikaMudchawade@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email">
+  </a>
+  <a href="https://open.spotify.com/user/your-spotify-username">
+    <img src="https://img.shields.io/badge/Spotify-Listen-green?style=flat&logo=spotify" alt="Spotify">
   </a>
 </p>
